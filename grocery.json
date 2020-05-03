@@ -1,0 +1,86 @@
+{
+    "grocery":[
+        {
+        "SerialNumber":"1",
+        "Name":"Rice",
+        "Quality":"10",
+        "Unit":"Kilo Gram",
+        "Department":"Grocery",
+        "Notes":"TT Brand"
+        },
+        {
+            "SerialNumber":"2",
+            "Name":"Atta",
+            "Quality":"1",
+            "Unit":"Kilo Gram",
+            "Department":"Grocery",
+            "Notes":"Ashirvad"
+            },
+            {
+                "SerialNumber":"3",
+                "Name":"Tea Powder",
+                "Quality":"250",
+                "Unit":"Gram",
+                "Department":"Tea & Coffee",
+                "Notes":"AVT Premium"
+                },
+                {
+                    "SerialNumber":"4",
+                    "Name":"Oats",
+                    "Quality":"1",
+                    "Unit":"Kilo Gram",
+                    "Department":"Breakfast & Cereals",
+                    "Notes":"Quaker Oats"
+                    },
+                    {
+                        "SerialNumber":"5",
+                        "Name":"Coconut Oil",
+                        "Quality":"1",
+                        "Unit":"Litter",
+                        "Department":"Oil & Ghee",
+                        "Notes":"Kera Double filtered coconut oil"
+                        },
+                        {
+                            "SerialNumber":"6",
+                            "Name":"Big Onion",
+                            "Quality":"1",
+                            "Unit":"Kilo Gram",
+                            "Department":"Vegetables & Fruits",
+                            "Notes":"savala"
+                            },
+                            {
+                                "SerialNumber":"7",
+                                "Name":"Elephant Foot Yam",
+                                "Quality":"500",
+                                "Unit":"Gram",
+                                "Department":"Vegetables & Fruits",
+                                "Notes":"Nadan Chena"
+                                },
+                                {
+                                    "SerialNumber":"8",
+                                    "Name":"Vim Bar",
+                                    "Quality":"1",
+                                    "Unit":"Number",
+                                    "Department":"Household",
+                                    "Notes":"Lemons dish wash"
+                                    },
+                                    {
+                                        "SerialNumber":"9",
+                                        "Name":"Salt",
+                                        "Quality":"1",
+                                        "Unit":"Kilo Gram",
+                                        "Department":"Grocery",
+                                        "Notes":"Sprinkle"
+                                        },
+                                        {
+                                            "SerialNumber":"10",
+                                            "Name":"Green Moong",
+                                            "Quality":"1",
+                                            "Unit":"Kilo Gram",
+                                            "Department":"Grocery",
+                                            "Notes":"Cherupayar"
+                                            }
+
+        
+    ]
+}
